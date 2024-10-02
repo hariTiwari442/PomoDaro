@@ -1,0 +1,17 @@
+.pomo {
+  width: 600px;
+  display: flex;
+}
+
+.cnt {
+  display: flex;
+}
+.common {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 700px;
+  background-color: antiquewhite;
+  justify-content: center;
+  align-self: center;
+}
