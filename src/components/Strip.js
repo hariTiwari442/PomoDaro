@@ -6,6 +6,17 @@ const Stripe = (props) => {
   return (
     <div className="strip" style={{ backgroundColor: color }}>
       <Chip value={props.chipValue}></Chip>
+      <div className="box flex-container">
+        <button className="chip-button" value={"||"}>
+          ||
+        </button>
+        <button className="chip-button" value={"||"}>
+          ||
+        </button>
+        <button className="chip-button" value={"||"}>
+          ||
+        </button>
+      </div>
     </div>
   );
 };

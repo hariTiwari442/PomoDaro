@@ -5,9 +5,10 @@
   padding-top: 12px;
   display: inline-block;
   height: 15px;
-  width: auto;
+  width: 50%;
   text-align: center;
   font-weight: bold;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Dark shadow */
   margin-top: 75px;
+  margin-left: 50px;
 }
