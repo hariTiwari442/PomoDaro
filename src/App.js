@@ -124,9 +124,12 @@ function App() {
   };
   return (
     <>
+    <h1>Welcome to React</h1>
+    <p>Let's build something amazing!</p>  
+
       <Card>
         {/* <Pomo className={"normal-box"}></Pomo> */}
-        <POMO></POMO>
+    <POMO></POMO>
         <Stripe
           color={"#fff2f2"}
           chipValue={"🧠 Focus"}
